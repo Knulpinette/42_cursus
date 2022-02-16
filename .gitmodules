@@ -1,3 +1,6 @@
+[submodule "00-libft"]
+	path = 00-libft
+	url = git@github.com:Knulpinette/00-libft.git
 [submodule "01-born2beroot"]
 	path = 01-born2beroot
 	url = git@github.com:Knulpinette/01-born2beroot.git
@@ -22,6 +25,3 @@
 [submodule "04-minirt"]
 	path = 04-minirt
 	url = git@github.com:Knulpinette/04-minirt.git
-[submodule "00-libft"]
-	path = 00-libft
-	url = git@github.com:Knulpinette/00-libft.git
