@@ -1,5 +1,5 @@
 [submodule "00-libft"]
-	path = libft
+	path = 00-libft
 	url = git@github.com:Knulpinette/00-libft.git
 [submodule "born2beroot"]
 	path = born2beroot
