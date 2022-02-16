@@ -1,5 +1,5 @@
 [submodule "00-libft"]
-	path = libft
+	path = 00-libft
 	url = git@github.com:Knulpinette/00-libft.git
 [submodule "born2beroot"]
 	path = born2beroot
@@ -25,3 +25,12 @@
 [submodule "04-minirt"]
 	path = 04-minirt
 	url = git@github.com:Knulpinette/04-minirt.git
+[submodule "01-born2beroot"]
+	path = 01-born2beroot
+	url = git@github.com:Knulpinette/01-born2beroot.git
+[submodule "01-get_next_line"]
+	path = 01-get_next_line
+	url = git@github.com:Knulpinette/01-get_next_line.git
+[submodule "01-printf"]
+	path = 01-printf
+	url = git@github.com:Knulpinette/01-printf.git
