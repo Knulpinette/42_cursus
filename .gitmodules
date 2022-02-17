@@ -25,3 +25,33 @@
 [submodule "04-minirt"]
 	path = 04-minirt
 	url = git@github.com:Knulpinette/04-minirt.git
+[submodule "42_00_libft"]
+	path = 42_00_libft
+	url = git@github.com:Knulpinette/42_00_libft.git
+[submodule "42_01_born2beroot"]
+	path = 42_01_born2beroot
+	url = git@github.com:Knulpinette/42_01_born2beroot.git
+[submodule "42_01_get_next_line"]
+	path = 42_01_get_next_line
+	url = git@github.com:Knulpinette/42_01_get_next_line.git
+[submodule "42_01_printf"]
+	path = 42_01_printf
+	url = git@github.com:Knulpinette/42_01_printf.git
+[submodule "42_02_pipex"]
+	path = 42_02_pipex
+	url = git@github.com:Knulpinette/42_02_pipex.git
+[submodule "42_02_push_swap"]
+	path = 42_02_push_swap
+	url = git@github.com:Knulpinette/42_02_push_swap.git
+[submodule "42_03_minishell"]
+	path = 42_03_minishell
+	url = git@github.com:Knulpinette/42_03_minishell.git
+[submodule "42_03_philosophers"]
+	path = 42_03_philosophers
+	url = git@github.com:Knulpinette/42_03_philosophers.git
+[submodule "42_04_minirt"]
+	path = 42_04_minirt
+	url = git@github.com:Knulpinette/42_04_minirt.git
+[submodule "42_04_cpp_modules"]
+	path = 42_04_cpp_modules
+	url = git@github.com:Knulpinette/42_04_cpp_modules.git
