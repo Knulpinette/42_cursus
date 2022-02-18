@@ -3,5 +3,5 @@
 42 projects
 
 ### Python3 virtual environement
-* >$source .venv/bin/activate
-* >$deactivate
+* >source .venv/bin/activate
+* >deactivate
