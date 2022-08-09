@@ -55,6 +55,7 @@
 [submodule "42_04_cpp_modules"]
 	path = 42_04_cpp_modules
 	url = git@github.com:Knulpinette/42_04_cpp_modules.git
+
 [submodule "42_05_inception"]
 	path = 42_05_inception
-	url = git@github.com:Knulpinette/42_05_inception.git
+	url = ./42_05_inception
